@@ -1,8 +1,8 @@
 print("App is running...")
 
 
-from Cryptodome.Cipher import AES
-from Cryptodome.Random import get_random_bytes
+from CryptodomeX.Cipher import AES
+from CryptodomeX.Random import get_random_bytes
 
 
 def encrypt(passwordText: str):
