@@ -3,4 +3,5 @@ pyotp
 werkzeug
 cryptography
 gunicorn
-pycryptodome
+pycryptodomex
+
